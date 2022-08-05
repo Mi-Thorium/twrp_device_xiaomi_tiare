@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_uter.mk
+    $(LOCAL_DIR)/twrp_tiare.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_uter-user \
-    twrp_uter-userdebug \
-    twrp_uter-eng
+    twrp_tiare-user \
+    twrp_tiare-userdebug \
+    twrp_tiare-eng
