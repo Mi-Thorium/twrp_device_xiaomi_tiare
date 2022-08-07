@@ -14,7 +14,6 @@ TARGET_PREBUILT_KERNEL := device/xiaomi/kernel-mithorium/tiare/Image.gz-dtb
 
 # Partitions
 BOARD_RECOVERYIMAGE_PARTITION_SIZE := 25165824
-BOARD_USES_METADATA_PARTITION := true
 
 # Recovery
 TARGET_RECOVERY_DEVICE_DIRS += $(DEVICE_PATH)
